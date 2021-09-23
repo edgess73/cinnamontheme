@@ -3,7 +3,7 @@
         "author": "Edges chan#6281",
         "name": "Cinnamon",
         "license": "GPL 3.0",
-        "updater": "https:\/\/github.com\/edgess73\/cinnamontheme\/cinnamon.json",
+        "updater": "https:\/\/raw.githubusercontent.com\/edgess73\/cinnamontheme\/main\/cinnamon.json",
         "version": "0.0.1"
     },
     "background": {},
