@@ -1,4 +1,4 @@
-# Cinnamon theme
+# p̶o̶o̶p̶ Cinnamon theme
 
 **Theme for Aluicord**
 
