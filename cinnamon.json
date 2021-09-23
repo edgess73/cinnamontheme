@@ -4,7 +4,7 @@
         "name": "Cinnamon",
         "license": "GPL 3.0",
         "updater": "https:\/\/raw.githubusercontent.com\/edgess73\/cinnamontheme\/main\/cinnamon.json",
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "background": {},
     "fonts": {
